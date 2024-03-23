@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cetin\\.nuget\\packages\\": {}
+    "C:\\Users\\helin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\cetin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
