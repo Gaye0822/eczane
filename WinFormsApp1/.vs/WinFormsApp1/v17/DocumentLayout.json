@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "RelativeDocumentMoniker": "ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:53:36.989Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "depo.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depo.cs",
               "RelativeDocumentMoniker": "depo.cs",
               "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depo.cs [Tasar\u0131m]",
               "RelativeToolTip": "depo.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T21:40:01.481Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-03-27T21:40:01.481Z"
             },
             {
               "$type": "Document",
@@ -54,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "depogiri\u015F.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depogiri\u015F.cs",
               "RelativeDocumentMoniker": "depogiri\u015F.cs",
@@ -66,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
