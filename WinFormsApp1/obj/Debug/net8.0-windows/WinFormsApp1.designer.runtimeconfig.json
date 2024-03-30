@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\helin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\helin\\.nuget\\packages"
+      "C:\\Users\\yavuz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yavuz\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
