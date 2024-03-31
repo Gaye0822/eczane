@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "qH8lK8EAWO1vZaevPMyGrI3o3KogURTeBge3Gh4AgMCmduJE8Rrao5E3CcVQ8rHkzNyf5N2IqVIiuYN4JAeyfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\melik\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
@@ -14,5 +15,11 @@
     "C:\\Users\\melik\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\melik\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "usEyk2ryxYWfH3Kv/4Rjq5O38PPxwQJt5Zh9gO8CS9TH4knXTG0ynHv0HmCI71qu6T+wADDkNIoqU57d42gU7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melik\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> Stashed changes
   "logs": []
 }
