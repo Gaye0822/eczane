@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
