@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\helin\\documents\\github\\eczane\\winformsapp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\helin\\documents\\github\\eczane\\winformsapp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -78,9 +78,9 @@
               "Title": "hastakay\u0131t.cs",
               "DocumentMoniker": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs",
               "RelativeDocumentMoniker": "hastakay\u0131t.cs",
-              "ToolTip": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs*",
-              "RelativeToolTip": "hastakay\u0131t.cs*",
-              "ViewState": "AQIAAC8AAAAAAAAAAIA+wDsAAAAAAAAA",
+              "ToolTip": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeToolTip": "hastakay\u0131t.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAArwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T15:31:17.565Z",
               "EditorCaption": ""
@@ -94,8 +94,7 @@
               "ToolTip": "C:\\Users\\helin\\Documents\\GitHub\\eczane\\WinFormsApp1\\hastakay\u0131t.cs [Tasar\u0131m]*",
               "RelativeToolTip": "hastakay\u0131t.cs [Tasar\u0131m]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:04:10.041Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2024-04-01T15:04:10.041Z"
             },
             {
               "$type": "Document",
