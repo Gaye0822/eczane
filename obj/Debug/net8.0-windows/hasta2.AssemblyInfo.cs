@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("hasta2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7f698754fe56f409efc947d62a3ebb3035faa4")]
-[assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp1")]
+[assembly: System.Reflection.AssemblyProductAttribute("hasta2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("hasta2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
