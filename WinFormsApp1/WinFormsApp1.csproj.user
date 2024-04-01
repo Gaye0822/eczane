@@ -13,6 +13,9 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="hastakayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="geçmişsatış.cs">
       <SubType>Form</SubType>
     </Compile>
