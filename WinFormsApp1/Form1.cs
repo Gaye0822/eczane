@@ -1,4 +1,5 @@
 ﻿
+/*
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,7 +22,7 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
-        SqlConnection baglan = new SqlConnection("Data Source = MOONSTAR\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
+        SqlConnection baglan = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
 
         private void verileriGoruntule()
         {
@@ -35,7 +36,7 @@ namespace WinFormsApp1
                 ekle.SubItems.Add (oku["İlaç Adı"].ToString());
                 ekle.SubItems.Add (oku["Barkod NO"].ToString());
                 ekle.SubItems.Add (oku["Stok Adedi"].ToString());
-                ekle.SubItems.Add (oku["Eklenecek Stok Adedi"].ToString());
+                ekle.SubItems.Add (oku["Fiyat"].ToString());
                 //listView1.Items.Add (ekle);
             }
             baglan.Close();
@@ -68,3 +69,4 @@ namespace WinFormsApp1
         }
     }
 }
+*/

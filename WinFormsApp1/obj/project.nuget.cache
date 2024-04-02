@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5yKi/M1/qevIjJ9NhU4VfPRM7SX8G8IgWjIoYwaI/BaMeTvBXr4ayFM82HUfTi9isnWAF1e+FKd1GDq78Sj4Q==",
+  "dgSpecHash": "OxBKFRR8j9cCCu62c5aQoIbjwpexfcdeZz/CUjyLAlQrvEeeLscCFG/54SrhVt51db58C5aSkITLZLW+En4Kiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yavuz\\source\\repos\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yavuz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\yavuz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
