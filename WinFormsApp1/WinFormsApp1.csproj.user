@@ -19,6 +19,9 @@
     <Compile Update="geçmişsatış.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ilacarama.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="menu.cs">
       <SubType>Form</SubType>
     </Compile>
