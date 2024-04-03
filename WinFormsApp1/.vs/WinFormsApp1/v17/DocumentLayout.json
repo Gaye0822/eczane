@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yigit\\documents\\github\\son eczane\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -87,6 +99,125 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "satisekrani.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\satisekrani.cs",
+              "RelativeDocumentMoniker": "satisekrani.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\satisekrani.cs",
+              "RelativeToolTip": "satisekrani.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:42:43.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "satisekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\satisekrani.cs",
+              "RelativeDocumentMoniker": "satisekrani.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\satisekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "satisekrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:41:52.688Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs",
+              "RelativeDocumentMoniker": "ilacc\u0131kt\u0131.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:36:48.708Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ilacarama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs",
+              "RelativeDocumentMoniker": "ilacarama.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ilacarama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:07:13.979Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:01:50.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "menu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "menu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:01:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hastakay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeToolTip": "hastakay\u0131t.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:31:17.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hastakay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastakay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:04:10.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "RelativeDocumentMoniker": "ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:17:18.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T12:17:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ilacarama.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs",
               "RelativeDocumentMoniker": "ilacarama.cs",
@@ -99,90 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ilacarama.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs",
-              "RelativeDocumentMoniker": "ilacarama.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ilacarama.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ilacarama.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:07:13.979Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
-              "RelativeDocumentMoniker": "menu.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
-              "RelativeToolTip": "menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T18:01:50.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menu.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs",
-              "RelativeDocumentMoniker": "menu.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\menu.cs [Tasar\u0131m]",
-              "RelativeToolTip": "menu.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T18:01:00.22Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "hastakay\u0131t.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
-              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
-              "RelativeToolTip": "hastakay\u0131t.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAiwDYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:31:17.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "hastakay\u0131t.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs",
-              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\hastakay\u0131t.cs [Tasar\u0131m]",
-              "RelativeToolTip": "hastakay\u0131t.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:04:10.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs",
-              "RelativeDocumentMoniker": "ge\u00E7mi\u015Fsat\u0131\u015F.cs",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T12:17:18.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WinFormsApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\WinFormsApp1.csproj",
-              "RelativeDocumentMoniker": "WinFormsApp1.csproj",
-              "ToolTip": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\WinFormsApp1.csproj",
-              "RelativeToolTip": "WinFormsApp1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-30T12:17:18.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -194,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "depoekle.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\depoekle.cs",
               "RelativeDocumentMoniker": "depoekle.cs",
@@ -205,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -216,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "UpgradeLog.htm",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\UpgradeLog.htm",
               "RelativeDocumentMoniker": "UpgradeLog.htm",
@@ -228,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -240,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "depogiri\u015F.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\depogiri\u015F.cs",
               "RelativeDocumentMoniker": "depogiri\u015F.cs",
@@ -251,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\Form1.resx",
               "RelativeDocumentMoniker": "Form1.resx",
@@ -262,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -274,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "depo.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Documents\\GitHub\\son eczane\\WinFormsApp1\\depo.cs",
               "RelativeDocumentMoniker": "depo.cs",

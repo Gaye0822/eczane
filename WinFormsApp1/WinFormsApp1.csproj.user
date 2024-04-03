@@ -28,5 +28,8 @@
     <Compile Update="menu.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="satisekrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
