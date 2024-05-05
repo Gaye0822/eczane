@@ -1,6 +1,4 @@
-﻿
-/*
-using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,7 +22,7 @@ namespace WinFormsApp1
 
         SqlConnection baglan = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
 
-        private void verileriGoruntule()
+        public void verileriGoruntule()
         {
             baglan.Open();
             SqlCommand komut = new SqlCommand("Select *from ilac", baglan);
@@ -36,13 +34,19 @@ namespace WinFormsApp1
                 ekle.SubItems.Add (oku["İlaç Adı"].ToString());
                 ekle.SubItems.Add (oku["Barkod NO"].ToString());
                 ekle.SubItems.Add (oku["Stok Adedi"].ToString());
+                ekle.SubItems.Add (oku["Raf NO"].ToString());
                 ekle.SubItems.Add (oku["Fiyat"].ToString());
-                //listView1.Items.Add (ekle);
+
+                listView1.Items.Add (ekle);
             }
             baglan.Close();
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+            verileriGoruntule();
+        }
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

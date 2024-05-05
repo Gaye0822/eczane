@@ -8,32 +8,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WinFormsApp1
 {
-    public partial class menu : Form
+    public partial class ilacarama : Form
     {
-        SqlCommand cmd;
-        SqlDataReader oku;
-        public menu()
+        public ilacarama()
         {
             InitializeComponent();
         }
         SqlConnection bag = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
-    
-        private void button1_Click(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            SqlCommand cmd = new SqlCommand("insert into ilac(resim)values(@resim)");
-            //cmd.Parameters.AddWithValues("@resim",pictureBox1.ImageLocation);
+            SqlCommand cmd3 = new SqlCommand("select *from ilac where Barkod_NO like ='" + textBox1.Text + "%'",bag);
             bag.Open();
-            cmd.ExecuteNonQuery();
-            //biraz eksik
+            cmd3.ExecuteNonQuery();
+            bag.Close();
         }
     }
 }
