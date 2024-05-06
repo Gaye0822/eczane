@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yavuz\\onedrive\\belgeler\\github\\eczane\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\yavuz\\onedrive\\belgeler\\github\\eczane\\winformsapp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:satisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,35 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ilacarama.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ilacarama.cs",
-              "RelativeDocumentMoniker": "ilacarama.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ilacarama.cs",
-              "RelativeToolTip": "ilacarama.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAxwBMAAAC0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:42:36.378Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\menu.cs",
-              "RelativeDocumentMoniker": "menu.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\menu.cs",
-              "RelativeToolTip": "menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T17:34:44.982Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -90,101 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs",
-              "RelativeDocumentMoniker": "ge\u00E7mi\u015Fsat\u0131\u015F.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:11:54.236Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "depoekle.cs",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs",
-              "RelativeDocumentMoniker": "depoekle.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs",
-              "RelativeToolTip": "depoekle.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAC1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:13:17.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "depoekle.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs",
-              "RelativeDocumentMoniker": "depoekle.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depoekle.cs [Tasar\u0131m]",
-              "RelativeToolTip": "depoekle.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:11:46.508Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "depo.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depo.cs",
-              "RelativeDocumentMoniker": "depo.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depo.cs [Tasar\u0131m]",
-              "RelativeToolTip": "depo.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:11:42.674Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menu.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\menu.cs",
-              "RelativeDocumentMoniker": "menu.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\menu.cs [Tasar\u0131m]",
-              "RelativeToolTip": "menu.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T10:19:00.209Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs",
-              "RelativeDocumentMoniker": "ilacc\u0131kt\u0131.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:28:46.882Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "satisekrani.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\satisekrani.cs",
-              "RelativeDocumentMoniker": "satisekrani.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\satisekrani.cs [Tasar\u0131m]",
-              "RelativeToolTip": "satisekrani.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:12:38.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "depogiri\u015F.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depogiri\u015F.cs",
-              "RelativeDocumentMoniker": "depogiri\u015F.cs",
-              "ToolTip": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\depogiri\u015F.cs [Tasar\u0131m]",
-              "RelativeToolTip": "depogiri\u015F.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T10:16:28.241Z"
             }
           ]
         }
