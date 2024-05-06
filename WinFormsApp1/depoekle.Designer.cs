@@ -48,7 +48,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(106, 23);
             textBox1.TabIndex = 0;
-            textBox1.TextChanged += textBox1_TextChanged;
+            //textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -156,7 +156,7 @@
             Margin = new Padding(3, 2, 3, 2);
             Name = "depoekle";
             Text = "Form7";
-            Load += Form7_Load;
+            //Load += Form7_Load;
             ResumeLayout(false);
             PerformLayout();
         }
