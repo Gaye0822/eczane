@@ -14,13 +14,14 @@
     <Compile Update="geçmişsatış.cs">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Update="hastakayıt.cs">
-      <SubType>Form</SubType>
-    </Compile>
+=======
     <Compile Update="ilacarama.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ilaccıktı.cs">
+>>>>>>> f11dcd414916a509bd7a13e3196df8d94100af03
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="menu.cs">

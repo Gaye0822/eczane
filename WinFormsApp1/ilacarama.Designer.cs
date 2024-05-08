@@ -44,7 +44,7 @@
             button1.TabIndex = 0;
             button1.Text = "İlaç Ara";
             button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            //button1.Click += button1_Click;
             // 
             // pictureBox1
             // 
@@ -62,6 +62,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 2;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // ilacarama
             // 

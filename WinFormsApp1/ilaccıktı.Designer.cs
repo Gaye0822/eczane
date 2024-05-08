@@ -58,6 +58,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // button1
             // 
@@ -68,6 +69,7 @@
             button1.TabIndex = 2;
             button1.Text = "Geri";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -78,6 +80,7 @@
             button2.TabIndex = 3;
             button2.Text = "Satış Yap";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // label2
             // 
@@ -114,6 +117,7 @@
             label5.Size = new Size(51, 15);
             label5.TabIndex = 7;
             label5.Text = "Raf NO :";
+            
             // 
             // textBox2
             // 
@@ -122,6 +126,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 23);
             textBox2.TabIndex = 8;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // textBox3
             // 
@@ -130,6 +135,7 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(100, 23);
             textBox3.TabIndex = 9;
+            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // textBox4
             // 
@@ -138,6 +144,7 @@
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(100, 23);
             textBox4.TabIndex = 10;
+            textBox4.TextChanged += textBox4_TextChanged;
             // 
             // textBox5
             // 
@@ -146,6 +153,7 @@
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(100, 23);
             textBox5.TabIndex = 11;
+            textBox5.TextChanged += textBox5_TextChanged;
             // 
             // ilaccıktı
             // 

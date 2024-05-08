@@ -40,36 +40,41 @@
             // textBox1
             // 
             textBox1.BackColor = SystemColors.Menu;
-            textBox1.Location = new Point(184, 93);
+            textBox1.Location = new Point(161, 70);
+            textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
+            textBox1.Size = new Size(110, 23);
             textBox1.TabIndex = 0;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox4
             // 
             textBox4.BackColor = SystemColors.Menu;
-            textBox4.Location = new Point(184, 151);
+            textBox4.Location = new Point(161, 113);
+            textBox4.Margin = new Padding(3, 2, 3, 2);
             textBox4.Name = "textBox4";
-            textBox4.Size = new Size(125, 27);
+            textBox4.Size = new Size(110, 23);
             textBox4.TabIndex = 3;
+            //textBox4.TextChanged += textBox4_TextChanged;
             // 
             // textBox5
             // 
             textBox5.BackColor = SystemColors.Menu;
             textBox5.Location = new Point(-1, 0);
+            textBox5.Margin = new Padding(3, 2, 3, 2);
             textBox5.Name = "textBox5";
-            textBox5.Size = new Size(125, 27);
+            textBox5.Size = new Size(110, 23);
             textBox5.TabIndex = 4;
             textBox5.Text = "Barkod NO";
+            //textBox5.TextChanged += textBox5_TextChanged;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.White;
-            label1.Location = new Point(108, 96);
+            label1.Location = new Point(94, 72);
             label1.Name = "label1";
-            label1.Size = new Size(66, 20);
+            label1.Size = new Size(52, 15);
             label1.TabIndex = 5;
             label1.Text = "İlaç Adı :";
             // 
@@ -77,38 +82,42 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.White;
-            label3.Location = new Point(89, 154);
+            label3.Location = new Point(78, 116);
             label3.Name = "label3";
-            label3.Size = new Size(85, 20);
+            label3.Size = new Size(67, 15);
             label3.TabIndex = 7;
             label3.Text = "Stok Adeti :";
             // 
             // button1
             // 
             button1.BackColor = SystemColors.Menu;
-            button1.Location = new Point(108, 252);
+            button1.Location = new Point(94, 189);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(82, 22);
             button1.TabIndex = 9;
             button1.Text = "Geri";
             button1.UseVisualStyleBackColor = false;
+           // button1.Click += button1_Click;
             // 
             // button3
             // 
             button3.BackColor = SystemColors.Menu;
-            button3.Location = new Point(303, 252);
+            button3.Location = new Point(265, 189);
+            button3.Margin = new Padding(3, 2, 3, 2);
             button3.Name = "button3";
-            button3.Size = new Size(94, 29);
+            button3.Size = new Size(82, 22);
             button3.TabIndex = 11;
             button3.Text = "Ekle";
             button3.UseVisualStyleBackColor = false;
+           // button3.Click += button3_Click;
             // 
-            // Form6
+            // depo
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(484, 450);
+            ClientSize = new Size(424, 338);
             Controls.Add(button3);
             Controls.Add(button1);
             Controls.Add(label3);
@@ -116,8 +125,10 @@
             Controls.Add(textBox5);
             Controls.Add(textBox4);
             Controls.Add(textBox1);
-            Name = "Form6";
+            Margin = new Padding(3, 2, 3, 2);
+            Name = "depo";
             Text = "Form6";
+            //Load += depo_Load;
             ResumeLayout(false);
             PerformLayout();
         }

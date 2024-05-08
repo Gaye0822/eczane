@@ -1,32 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
   <ItemGroup>
+    <Compile Update="depogiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="depo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="depoekle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="depogiriş.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="geçmişsatış.cs">
+<<<<<<< HEAD
+=======
+    <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="hastakayıt.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ilacarama.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="ilaccıktı.cs">
+>>>>>>> 66f7c21bd561440e86d38502ea2c7e27fb058fd8
+    <Compile Update="geçmişsatış.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="menu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="satisekrani.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
