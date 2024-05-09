@@ -18,7 +18,8 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
-        SqlConnection bag = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
+        //SqlConnection bag = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
+        /*
         public void temizle()
         {
             textBox1.Text = "";
@@ -29,8 +30,10 @@ namespace WinFormsApp1
         }
         int Barkod_NO=0;
         int Stok_Adeti = 0;
+        */
         private void button2_Click(object sender, EventArgs e)
         {
+            /*
             if (Stok_Adeti==0)
             {
                 MessageBox.Show("Stokta Yok.Satış Yapılamaz.");
@@ -44,14 +47,18 @@ namespace WinFormsApp1
                 MessageBox.Show("Satış Yapıldı.");
                 temizle();
             }
-        }   
+            */
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
+                /*
             bag.Open();
             SqlCommand cmd = new SqlCommand("update ilac set İlaç_Adı='"+textBox1.Text.ToString()+"',Barkod_NO='"+textBox2.Text.ToString()+"',Stok_Durum='"+textBox3.Text.ToString()+"',Raf_NO='"+textBox4.Text.ToString()+"',Fiyat='"+textBox5.Text.ToString()+"' where Barkod_NO="+ Barkod_NO +"", bag);
             cmd.ExecuteNonQuery();
             bag.Close();
             temizle();
+                */
         }  
 
     }

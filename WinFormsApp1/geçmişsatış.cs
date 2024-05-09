@@ -17,7 +17,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
-        SqlConnection baglan = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
+        //SqlConnection baglan = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
         
         /*
         public void verileriGoruntule()
@@ -39,13 +39,12 @@ namespace WinFormsApp1
             }
             baglan.Close();
         }
+        */
 
         private void geçmişsatış_Load(object sender, EventArgs e)
         {
-            verileriGoruntule();
+            //verileriGoruntule();
         }
     
-                      //TASARIMA ListView EKLENEREK SATIŞ EKRANINDA GÖRÜNTÜLEME EKLENMELİ
-                      //select from kısmı satılan ilaçlar olarak ayarlanıcak                 */
     }
 }

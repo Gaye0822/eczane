@@ -17,11 +17,13 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
-        int Barkod_NO = 0;
+       
+       // int Barkod_NO = 0;
 
-        SqlConnection bag = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
+        //SqlConnection bag = new SqlConnection("Data Source = MOONSTAR\\SQLEXPRESS; Initial Catalog = eczaneOtomasyonu1; Integrated Security = True; Trust Server Certificate=True");
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+            /*
             if (Barkod_NO<100) 
             {
                 bag.Open();
@@ -33,8 +35,9 @@ namespace WinFormsApp1
             {
                 MessageBox.Show("Bulunamadı.");
             }
+            */
         }
 
- 
+
     }
 }
