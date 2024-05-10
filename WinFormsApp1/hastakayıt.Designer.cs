@@ -203,6 +203,7 @@
             Controls.Add(button1);
             Name = "hastakayıt";
             Text = "Form2";
+            Load += hastakayıt_Load;
             ResumeLayout(false);
             PerformLayout();
         }

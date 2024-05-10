@@ -54,5 +54,10 @@ namespace WinFormsApp1
             baglan.Close();
             verilerigörüntüle();
         }
+
+        private void hastakayıt_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

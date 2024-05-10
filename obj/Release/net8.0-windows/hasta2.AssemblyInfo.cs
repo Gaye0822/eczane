@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hasta2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7f698754fe56f409efc947d62a3ebb3035faa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a62bace2e050cefc4362060e86bc082c09f3d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("hasta2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hasta2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
