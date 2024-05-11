@@ -45,7 +45,7 @@
             button1.TabIndex = 0;
             button1.Text = "Depo";
             button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            //button1.Click += button1_Click;
             // 
             // pictureBox1
             // 
@@ -55,7 +55,8 @@
             pictureBox1.Size = new Size(329, 255);
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
+            pictureBox1.UseWaitCursor = true;
+           // pictureBox1.Click += pictureBox1_Click;
             // 
             // button2
             // 
@@ -66,6 +67,7 @@
             button2.TabIndex = 2;
             button2.Text = "Satış Geçmişi";
             button2.UseVisualStyleBackColor = false;
+           // button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -76,6 +78,7 @@
             button3.TabIndex = 3;
             button3.Text = "İlaç Ara";
             button3.UseVisualStyleBackColor = false;
+           // button3.Click += button3_Click;
             // 
             // menu
             // 

@@ -42,71 +42,72 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(532, 12);
+            pictureBox1.Location = new Point(466, 9);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(256, 207);
+            pictureBox1.Size = new Size(224, 155);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(34, 21);
+            label1.Location = new Point(30, 16);
             label1.Name = "label1";
-            label1.Size = new Size(109, 20);
+            label1.Size = new Size(86, 15);
             label1.TabIndex = 1;
             label1.Text = "Geçmiş Satışlar";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(34, 86);
+            label2.Location = new Point(30, 64);
             label2.Name = "label2";
-            label2.Size = new Size(91, 20);
+            label2.Size = new Size(73, 15);
             label2.TabIndex = 2;
             label2.Text = "İsim Soyisim";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(201, 86);
+            label3.Location = new Point(176, 64);
             label3.Name = "label3";
-            label3.Size = new Size(29, 20);
+            label3.Size = new Size(24, 15);
             label3.TabIndex = 3;
             label3.Text = "T.C";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(544, 248);
+            label4.Location = new Point(476, 186);
             label4.Name = "label4";
-            label4.Size = new Size(0, 20);
+            label4.Size = new Size(0, 15);
             label4.TabIndex = 4;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(303, 86);
+            label5.Location = new Point(265, 64);
             label5.Name = "label5";
-            label5.Size = new Size(59, 20);
+            label5.Size = new Size(46, 15);
             label5.TabIndex = 5;
             label5.Text = "İlaç Adı";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(436, 86);
+            label6.Location = new Point(382, 64);
             label6.Name = "label6";
-            label6.Size = new Size(41, 20);
+            label6.Size = new Size(32, 15);
             label6.TabIndex = 6;
             label6.Text = "Adet";
             // 
-            // Form8
+            // geçmişsatış
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -114,8 +115,10 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(pictureBox1);
-            Name = "Form8";
+            Margin = new Padding(3, 2, 3, 2);
+            Name = "geçmişsatış";
             Text = "Form8";
+            //Load += geçmişsatış_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

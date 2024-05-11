@@ -39,9 +39,10 @@
             // button1
             // 
             button1.BackColor = SystemColors.Menu;
-            button1.Location = new Point(404, 329);
+            button1.Location = new Point(354, 247);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(82, 22);
             button1.TabIndex = 0;
             button1.Text = "Ara";
             button1.UseVisualStyleBackColor = false;
@@ -49,42 +50,45 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(274, 12);
+            pictureBox1.Location = new Point(240, 9);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(340, 226);
+            pictureBox1.Size = new Size(298, 170);
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(311, 272);
+            label1.Location = new Point(272, 204);
             label1.Name = "label1";
-            label1.Size = new Size(87, 20);
+            label1.Size = new Size(69, 15);
             label1.TabIndex = 2;
             label1.Text = "Barkod No :";
             // 
             // textBox1
             // 
             textBox1.BackColor = SystemColors.Menu;
-            textBox1.Location = new Point(404, 269);
+            textBox1.Location = new Point(354, 202);
+            textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
+            textBox1.Size = new Size(110, 23);
             textBox1.TabIndex = 3;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
-            // Form5
+            // depogiriş
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(textBox1);
             Controls.Add(label1);
             Controls.Add(pictureBox1);
             Controls.Add(button1);
-            Name = "Form5";
+            Margin = new Padding(3, 2, 3, 2);
+            Name = "depogiriş";
             Text = "Form5";
-            Load += Form5_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
