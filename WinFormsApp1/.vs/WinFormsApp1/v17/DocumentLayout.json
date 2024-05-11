@@ -1,7 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yavuz\\OneDrive\\Belgeler\\GitHub\\eczane\\WinFormsApp1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ge\u00E7mi\u015Fsat\u0131\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:depogiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:hastakay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacc\u0131kt\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|c:\\users\\cetin\\desktop\\eczane\\eczane\\winformsapp1\\ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436AD6D5-F7A2-4093-B3E4-0A9403DD4A5C}|WinFormsApp1.csproj|solutionrelative:ilacarama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cetin\\AppData\\Local\\SourceServer\\c04402b96e3cf3730e8598d663505b68df6c726bfb7ff6dda176b760aacd6055\\WinFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +57,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "depoekle.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depoekle.cs",
+              "RelativeDocumentMoniker": "depoekle.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depoekle.cs*",
+              "RelativeToolTip": "depoekle.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:21.179Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "depoekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depoekle.cs",
+              "RelativeDocumentMoniker": "depoekle.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depoekle.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "depoekle.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:18.988Z",
+              "EditorCaption": " [Tasar\u0131m]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "depogiri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depogiri\u015F.cs",
+              "RelativeDocumentMoniker": "depogiri\u015F.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depogiri\u015F.cs*",
+              "RelativeToolTip": "depogiri\u015F.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:15.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "depogiri\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depogiri\u015F.cs",
+              "RelativeDocumentMoniker": "depogiri\u015F.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\depogiri\u015F.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "depogiri\u015F.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:12.685Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hastakay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeToolTip": "hastakay\u0131t.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvywAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:21:02.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "RelativeDocumentMoniker": "ge\u00E7mi\u015Fsat\u0131\u015F.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ge\u00E7mi\u015Fsat\u0131\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:02.277Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ilacarama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacarama.cs",
+              "RelativeDocumentMoniker": "ilacarama.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacarama.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "ilacarama.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:20:39.239Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hastakay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\hastakay\u0131t.cs",
+              "RelativeDocumentMoniker": "hastakay\u0131t.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\hastakay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastakay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:20:58.725Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ilacarama.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacarama.cs",
+              "RelativeDocumentMoniker": "ilacarama.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacarama.cs*",
+              "RelativeToolTip": "ilacarama.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA8wB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:20:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ilacc\u0131kt\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs",
+              "RelativeDocumentMoniker": "ilacc\u0131kt\u0131.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs",
+              "RelativeToolTip": "ilacc\u0131kt\u0131.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA/wDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs",
+              "RelativeDocumentMoniker": "ilacc\u0131kt\u0131.cs",
+              "ToolTip": "C:\\Users\\cetin\\Desktop\\eczane\\eczane\\WinFormsApp1\\ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ilacc\u0131kt\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:23.637Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cetin\\AppData\\Local\\SourceServer\\c04402b96e3cf3730e8598d663505b68df6c726bfb7ff6dda176b760aacd6055\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c04402b96e3cf3730e8598d663505b68df6c726bfb7ff6dda176b760aacd6055\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\cetin\\AppData\\Local\\SourceServer\\c04402b96e3cf3730e8598d663505b68df6c726bfb7ff6dda176b760aacd6055\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c04402b96e3cf3730e8598d663505b68df6c726bfb7ff6dda176b760aacd6055\\WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:08:43.858Z",
+              "EditorCaption": ""
             }
           ]
         }
